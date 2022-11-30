@@ -1,0 +1,8 @@
+wechat:
+  mp:
+    appid: wx071267c1809c50be
+    secret: 8e5e7ac29024f2e757dc3291fb828507
+    token: aide
+    url : aa
+    aesKey: aa
+
